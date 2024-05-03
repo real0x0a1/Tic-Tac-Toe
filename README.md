@@ -12,8 +12,6 @@ Clone this repository to your local machine:
 git clone https://github.com/real0x0a1/Tic-Tac-Toe.git
 ```
 
-````
-
 Navigate into the project directory:
 
 ```bash
